@@ -1,0 +1,25 @@
+{
+  "name": "hamisu-interior-design",
+  "version": "1.0.0",
+  "description": "Premium warm minimalist interior design website for Hamisu 哈米舒艺居",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "interior-design",
+    "japandi",
+    "minimalist",
+    "malaysia",
+    "shah-alam",
+    "responsive-design"
+  ],
+  "author": "Hamisu Interior Design",
+  "license": "All Rights Reserved",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/hamisu-interior-design"
+  },
+  "homepage": "https://hamisu-interior.com"
+}
